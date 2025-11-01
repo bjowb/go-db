@@ -1,4 +1,6 @@
-# go-db: Redis-Inspired In-Memory Key-Value Store
+# go-db
+
+### Redis-Inspired In-Memory Key-Value Store
 
 **`go-db`** is a **lightweight, Redis-inspired in-memory key-value store** written entirely in Go.
 
@@ -21,7 +23,7 @@ It supports basic string storage with `SET`/`GET` and hash maps with `HSET`/`HGE
     Fetch the project code to your local machine:
 
     ```bash
-    git clone [https://github.com/bjowb/go-db.git](https://github.com/bjowb/go-db.git)
+    git clone https://github.com/bjowb/go-db.git
     cd go-db
     ```
 
